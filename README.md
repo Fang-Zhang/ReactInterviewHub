@@ -5,7 +5,7 @@ This is the core for everything, not just the interview.
 
 The questions will be divided into two sections: The General Questions and The Tech Questions.
 
-## General Interview Questions
+[## General Interview Questions](GeneralQuestions/GENERALQUESTIONS.md)
 [Link](GeneralQuestions/GENERALQUESTIONS.md)
 
 ## Tech Interview Questions
