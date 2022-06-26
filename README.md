@@ -10,3 +10,9 @@ Some introduction and discussion about yourself or your previous projects here.
 
 ## [Tech Interview Questions](TechQuestions/TECHQUESTIONS.md)
 The tech questions will be separated into three parts roughly just according to my feeling, definitely not accurate!
+
+### [Junior Developer Interview Questions](TechQuestions/JuniorDeveloperInterviewQuestions.md)
+### [Medium Developer Interview Questions](TechQuestions/MediumDeveloperInterviewQuestions.md)
+### [Senior Developer Interview Questions](TechQuestions/SeniorDeveloperInterviewQuestions.md)
+
+Of course, as a software developer, I have a bad habit which is eager to collecting all interesting resources around the world, such as [articles](Collections/InterestingArticlesList.md), [books](Collections/InterestingBooksList.md), [tools](Collections/InterestingToolsList.md), [websites](Collections/InterestingWebsitesList.md), [projects](Collections/InterestingProjectsList.md), etc. I always dream those stuff will level me up one day, even though I don't have enough time to finish them all:(
