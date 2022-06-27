@@ -7,6 +7,8 @@ The questions will be divided into two sections: The General Questions and The T
 
 ## [1 General Interview Questions](GeneralQuestions)
 Some introduction and discussion about yourself or your previous projects here.
+### [1.1 General Interview Questions](GeneralQuestions/GeneralQuestions.md)
+### [1.2 Culture and Behavior Interview Questions](GeneralQuestions/CultureAndBehaviorQuestions.md)
 
 <br>
 <br>
