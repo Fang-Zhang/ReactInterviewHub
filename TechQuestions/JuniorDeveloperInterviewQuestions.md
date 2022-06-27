@@ -12,23 +12,23 @@
 
 - ## What's the JSX?
 
->JSX is a XML-like syntax extension to ECMAScript (the acronym stands for JavaScript XML). Basically it just provides syntactic sugar for the React.createElement() function, giving us expressiveness of JavaScript along with HTML like template syntax.
+>JSX is a XML-like syntax extension to ECMAScript (the acronym stands for *JavaScript XML*). Basically it just provides syntactic sugar for the React.createElement() function, giving us expressiveness of JavaScript along with HTML like template syntax.
 >
 >In the example below text inside `<h1>` tag is returned as JavaScript function to the render function.
 
 ````javascript
     class App extends React.Component {
-    render() {
-        return(
-        <div>
-            <h1>{'Welcome to React world!'}</h1>
-        </div>
-        )
-    }
+        render() {
+            return(
+            <div>
+                <h1>{'Welcome to React world!'}</h1>
+            </div>
+            )
+        }
     }
 ````
 
-- ## What's the React?
+- ## What is the difference between Element and Component?
 
 >React is an open-source front-end JavaScript library that is used for building user interfaces, espec
 
