@@ -5,13 +5,13 @@ This is the core for everything, not just the interview. Plus, I highly recommen
 
 The questions will be divided into two sections: The General Questions and The Tech Questions.
 
-## [1 General Interview Questions](GeneralQuestions/GENERALQUESTIONS.md)
+## [1 General Interview Questions](GeneralQuestions)
 Some introduction and discussion about yourself or your previous projects here.
 
 <br>
 <br>
 
-## [2 Tech Interview Questions](TechQuestions/TECHQUESTIONS.md)
+## [2 Tech Interview Questions](TechQuestions)
 The tech questions will be separated into five parts roughly just according to my feeling, definitely not accurate!
 
 ### [2.1 JavaScript Interview Questions](TechQuestions/JavaScriptInterviewQuestions.md)
