@@ -16,6 +16,7 @@
 >
 >In the example below text inside `<h1>` tag is returned as JavaScript function to the render function.
 
+````javascript
     class App extends React.Component {
     render() {
         return(
@@ -25,6 +26,7 @@
         )
     }
     }
+````
 
 - ## What's the React?
 
