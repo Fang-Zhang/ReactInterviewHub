@@ -17,4 +17,5 @@ The tech questions will be separated into five parts roughly just according to m
 ### [Senior Developer Interview Questions](TechQuestions/SeniorDeveloperInterviewQuestions.md)
 ### [Specific for React Native Developer Interview Questions](TechQuestions/ReactNativeDeveloperInterviewQuestions.md)
 
+## [Collections](Collections)
 Of course, as a software developer, I have a bad habit which is eager to collecting all interesting resources around the world, such as [articles](Collections/InterestingArticlesList.md), [books](Collections/InterestingBooksList.md), [tools](Collections/InterestingToolsList.md), [websites](Collections/InterestingWebsitesList.md), [projects](Collections/InterestingProjectsList.md), etc. I always dream those stuff will level me up one day, even though I don't have enough time to finish them all:(
