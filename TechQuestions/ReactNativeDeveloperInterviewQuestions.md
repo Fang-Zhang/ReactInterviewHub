@@ -6,3 +6,4 @@
 
 # 4 Collections from other contributors
 [React Native Interview Questions and Answers](https://github.com/samsoul16/react-native-interview-questions#what-is-react-native)
+[react-native-interview(Chinese)](https://github.com/forrest23/react-native-interview)
